@@ -1,0 +1,17 @@
+.botones .col-md-3,
+.botones .col-md-4,
+.resolver,
+#mostrar{
+    border: 1px solid #ccc;
+    line-height: 45px;
+    min-height: 45px;
+    text-align: center;
+}
+#mostrar{
+    line-height: 55px;
+    height: 55px;
+    font-size: 25px;
+}
+.resolver{
+    background-color: #FE7C4A;
+}
